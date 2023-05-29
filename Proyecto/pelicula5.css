@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    color:rgb(255, 249, 249);
+    background-image: url(./maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}

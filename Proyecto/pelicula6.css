@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    color:rgb(253, 250, 250);
+    background-image: url(./Super\ Mario\ Bros.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
